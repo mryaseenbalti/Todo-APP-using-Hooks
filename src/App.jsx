@@ -1,8 +1,7 @@
 import { useCallback, useMemo, useState } from 'react'
 import './App.css'
-import TodoInput from './components/TodoInput'
+import TodoInput from 'src/components/TodoInput.jsx'
 import TodoList from './components/Todolist'
-import { data } from 'autoprefixer';
 import FilterButtons from './components/FilterButtons';
 
 
