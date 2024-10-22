@@ -1,6 +1,6 @@
 import { useCallback, useMemo, useState } from 'react'
 import './App.css'
-import TodoInput from 'src/components/TodoInput.jsx'
+import TodoInput from './components/TodoInput'
 import TodoList from './components/Todolist'
 import FilterButtons from './components/FilterButtons';
 
